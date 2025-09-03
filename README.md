@@ -13,3 +13,9 @@
 
 - **FederatedLearningContract.json**  
   Compiled contract artifact (ABI and bytecode) required for interacting with the deployed contract from Python.
+
+- **/blockchain_output/**  
+  Contains blockchain-related results, logs, and verification outputs generated during simulations.
+
+- **/FL_output/**  
+  Stores results of federated learning comparison experiments, including plots, metrics, and outputs from simulation notebooks in Simulation.ipynb.
