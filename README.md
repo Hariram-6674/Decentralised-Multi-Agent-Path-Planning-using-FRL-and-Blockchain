@@ -14,7 +14,7 @@
 - **FederatedLearningContract.json**  
   Compiled contract artifact (ABI and bytecode) required for interacting with the deployed contract from Python.
 
-- **blockchain_round_outputs**  
+- **Blockchain_round_outputs**  
   Contains blockchain-related results, logs, and verification outputs generated during simulations.
 
 - **FL_output**  
